@@ -160,37 +160,35 @@ GroviQ AI simulates enterprise SaaS dashboard behavior through:
 
 ---
 
-# 🖥 Screenshot Showcase
+# 🖼 Screenshot Showcase
 
-## 📊 Dashboard Overview
+## 🚀 Main Dashboard
+![Dashboard](./Images/dashboard.png)
 
-```md
-![Dashboard](./images/dashboard.png)
-```
+---
 
-## 🤖 AI Insights
+## 📊 Analytics Dashboard
+![Analytics](./Images/analysis.png)
 
-```md
-![AI Insights](./images/ai-insights.png)
-```
+---
 
-## 🚨 Smart Alerts
+## 🥧 Category Distribution Chart
+![Category Chart](./Images/category_chart.png)
 
-```md
-![Smart Alerts](./images/smart-alerts.png)
-```
+---
 
 ## 📦 Inventory Management
+![Inventory](./Images/inventory.png)
 
-```md
-![Inventory](./images/inventory.png)
-```
+---
 
-## 🧾 OCR Scanner
+## 🧠 Dashboard Structure
+![Dashboard Structure](./Images/dashboard_structure.png)
 
-```md
-![OCR Scanner](./images/ocr-scanner.png)
-```
+---
+
+## 🏗 System Structure
+![System Structure](./Images/structure.png)
 
 ---
 
